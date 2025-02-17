@@ -89,7 +89,7 @@ async function updateDevicePing(client, device) {
     { "chain": "aioz", "earning": true },
     { "chain": "filecoin", "earning": true },
     { "chain": "golem", "earning": true },
-    { "chain": "livepeer", "earning": true },
+    { "chain": "livepeer", "earning": false },
     { "chain": "myst", "earning": true },
     { "chain": "nosana", "earning": true },
     { "chain": "pkt", "earning": true },
